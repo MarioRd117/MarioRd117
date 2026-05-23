@@ -9,6 +9,13 @@
 Ayudo a transformar datos en información clara, accionable y útil para la toma de decisiones de negocio.
 
 </div>
+---
+
+<div align="center">
+
+![Visitas](https://komarev.com/ghpvc/?username=MarioRd117&label=Visitas%20al%20perfil&color=1F6FEB&style=for-the-badge)
+
+</div>
 
 ---
 
