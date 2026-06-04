@@ -48,6 +48,18 @@ Actualmente desarrollo mi portafolio profesional como **Data Analyst**, integran
 
 ---
 
+## Aprendiendo
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-En%20aprendizaje-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+
+</div>
+
+---
+
+---
+
 ### :zap: Actividad reciente
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/MarioRd117/miPrimerRepo/pull/1) in [MarioRd117/miPrimerRepo](https://github.com/MarioRd117/miPrimerRepo)
