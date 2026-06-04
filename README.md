@@ -48,7 +48,7 @@ Actualmente desarrollo mi portafolio profesional como **Data Analyst**, integran
 
 ---
 
-### :zap: Recent Activity
+### :zap: Actividad reciente
 !--START_SECTION:activity--
 !--END_SECTION:activity--
 
