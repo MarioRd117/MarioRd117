@@ -62,8 +62,8 @@ Actualmente desarrollo mi portafolio profesional como **Data Analyst**, integran
 
 ### :zap: Actividad reciente
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/MarioRd117/miPrimerRepo/pull/1) in [MarioRd117/miPrimerRepo](https://github.com/MarioRd117/miPrimerRepo)
-2. 💪 Opened PR [#1](https://github.com/MarioRd117/miPrimerRepo/pull/1) in [MarioRd117/miPrimerRepo](https://github.com/MarioRd117/miPrimerRepo)
+1. 🚀 Published release [v0.1.0](https://github.com/MarioRd117/practica_releases/releases/tag/v0.1.0) in [MarioRd117/practica_releases](https://github.com/MarioRd117/practica_releases)
+2. 🎉 Merged PR [#1](https://github.com/MarioRd117/miPrimerRepo/pull/1) in [MarioRd117/miPrimerRepo](https://github.com/MarioRd117/miPrimerRepo)
 <!--END_SECTION:activity-->
 
 ---
